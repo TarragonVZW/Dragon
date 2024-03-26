@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"cd6f8ba13bf14676","type":"group","x":-2800,"y":0,"width":1080,"height":640,"color":"3","label":"Assets"},
+		{"id":"adbfddd994ae44b0","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Medium_onAccent.png","x":-2774,"y":20,"width":182,"height":182},
+		{"id":"138476ebe35f57f3","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Medium_onBlack.png","x":-2774,"y":220,"width":182,"height":182},
+		{"id":"e785d604e37f7e49","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Medium_onWhite.png","x":-2774,"y":420,"width":182,"height":182},
+		{"id":"7b29b002df7d0648","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Tiny_onAccent.png","x":-2556,"y":20,"width":182,"height":182},
+		{"id":"0c05e8c89f747aba","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Tiny_onBlack.png","x":-2556,"y":220,"width":182,"height":182},
+		{"id":"44d4f7f880411e7a","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Tiny_onWhite.png","x":-2556,"y":420,"width":182,"height":182},
+		{"id":"8be9adfbaa2fa9c4","type":"text","text":"Story\n","x":60,"y":-200,"width":250,"height":60},
+		{"id":"5008418db7329f66","type":"text","text":"Locations","x":-840,"y":-200,"width":250,"height":60},
+		{"id":"3c86791f936de788","type":"text","text":"Make video for on the level screens","x":0,"y":-25,"width":250,"height":91},
+		{"id":"d8c34b4137332de1","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Title_onBlack.png","x":-2356,"y":220,"width":609,"height":182},
+		{"id":"56c94a2351a8816c","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Title_onAccent.png","x":-2356,"y":20,"width":609,"height":182},
+		{"id":"62af3236a2645afa","type":"file","file":"Tarragon/Dragon/LNoE/Attach/Title_onWhite.png","x":-2352,"y":420,"width":609,"height":182},
+		{"id":"e418f49b5d7fc36d","type":"text","text":"Marketing","x":-1888,"y":-200,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[]
+}
